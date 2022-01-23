@@ -19,10 +19,10 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-Tippy::Builder.new(total: 100, gratuity: "23.5").generate  #123.5
-Tippy::Builder.new(total: 100, gratuity: "high").generate  #125.0
-Tippy::Builder.new(total: 100, gratuity: "low").generate  #115.0
-Tippy::Builder.new(total: 100, gratuity: 20).generate  #120.0
+NewGem::Builder.new(total: 100, gratuity: "23.5").generate  #123.5
+NewGem::Builder.new(total: 100, gratuity: "high").generate  #125.0
+NewGem::Builder.new(total: 100, gratuity: "low").generate  #115.0
+NewGem::Builder.new(total: 100, gratuity: 20).generate  #120.0
 ```
 
 

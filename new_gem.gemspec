@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["akashs3096@gmail.com"]
 
   spec.summary       = %q{A gem for creating value }
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/AkashSingh26/new_gem "
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
