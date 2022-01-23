@@ -5,11 +5,11 @@ require_relative "lib/new_gem/version"
 Gem::Specification.new do |spec|
   spec.name          = "new_gem"
   spec.version       = NewGem::VERSION
-  spec.authors       = ["Akash"]
+  spec.authors       = ["AkashSingh26"]
   spec.email         = ["akashs3096@gmail.com"]
 
   spec.summary       = %q{A gem for creating value }
-  spec.homepage      = "https://github.com/AkashSingh26/new_gem "
+  spec.homepage      = "https:/ /github.com/AkashSingh26/new_gem "
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
