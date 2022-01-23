@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    new_gem26 (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.0.6)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  new_gem26!
+  rake (~> 13.0)
+
+BUNDLED WITH
+   2.2.3
