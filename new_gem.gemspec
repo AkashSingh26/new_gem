@@ -3,7 +3,7 @@
 require_relative "lib/new_gem/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "new_gem"
+  spec.name          = "gem_new26"
   spec.version       = NewGem::VERSION
   spec.authors       = ["AkashSingh26"]
   spec.email         = ["akashs3096@gmail.com"]
